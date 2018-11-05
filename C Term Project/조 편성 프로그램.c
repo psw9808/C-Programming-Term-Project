@@ -232,4 +232,5 @@ void fr(student r[])
 	}
 	fclose(fp);
 
+
 }
