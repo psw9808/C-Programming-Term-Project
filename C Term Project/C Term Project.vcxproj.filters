@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="D:\Sun\C프로그래밍\Sun\박선우_강연우,이형권,신인균\조 편성 프로그램.c">
+    <ClCompile Include="조 편성 프로그램.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
